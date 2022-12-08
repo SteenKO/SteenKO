@@ -8,4 +8,3 @@ Nice to meet you! I am a computer science student at Oregon State University, an
 - 📫 How to reach me: my personal email is steenolson2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm 5'8"
-
