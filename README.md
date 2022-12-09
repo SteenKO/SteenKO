@@ -1,5 +1,5 @@
 ### About me:
-Nice to meet you! I am a computer science student at Oregon State University, and I am minoring in Design and Innovation Management.
+Nice to meet you! I am a second-year computer science student at Oregon State University, and I am minoring in Design and Innovation Management.
 - 🔭 I’m currently working on my [final project for my web development class](https://github.com/CS-290-nilsstreedain) 
 - 🌱 I’m currently learning a lot about web development, specifically HTML, CSS, and Javascript. I plan to pick up React in the coming months!
 - 🕘 I also want to start developing projects in Unity soon.  
